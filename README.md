@@ -1,4 +1,4 @@
-# Hi 👋 My name is David Young
+# Hi 👋, I'm David Young
 ## Electrical and Computer Engineer
 Welcome to my GitHub profile! I am an Electrical and Computer Engineering graduate from the University of Cape Town with a passion for coding, problem-solving, and continuous learning. My journey into the world of technology began eight years ago, experimenting with Python tutorials I found online. Over time, this curiosity transformed into a deep understanding of various programming languages, tools, and technologies, which I now use to bring innovative solutions to life.
 
